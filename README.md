@@ -38,8 +38,6 @@ El análisis descriptivo reveló varios patrones significativos:
 
 3. **Estacionalidad marcada**: Junio y julio se identificaron consistentemente como los meses de mayor volumen de ventas.
 
-4. **Correlaciones clave**: Se encontró una correlación negativa (-0.39) entre los descuentos aplicados y los márgenes de beneficio.
-
 ## Resultados
 
 El modelo predictivo alcanzó métricas de rendimiento notables:
