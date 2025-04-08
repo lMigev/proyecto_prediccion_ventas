@@ -1,0 +1,31 @@
+Diccionario de Datos de las columnas del Dataset
+
+El dataset utilizado para el proyecto es un conjunto de datos sintético que representa información de ventas para un supermercado, contiene 5000 registros con 24 columnas. 
+Los datos abarcan varios aspectos de las transacciones de ventas. 
+
+Descripción de las Columnas:
+
+Order No: Identificador único para cada pedido.
+Order Date: Fecha en la que se realizó el pedido.
+Customer Name: Nombre del cliente que realizó el pedido.
+Address: Dirección del cliente (parece que hay una entrada faltante).
+City: Ciudad donde se encuentra el cliente.
+State: Estado donde se encuentra el cliente.
+Customer Type: Tipo de cliente (por ejemplo, minorista, mayorista).
+Account Manager: Nombre del gerente de cuenta que maneja el pedido.
+Order Priority: Nivel de prioridad del pedido.
+Product Name: Nombre del producto que se vende.
+Product Category: Categoría a la que pertenece el producto.
+Product Container: Tipo de contenedor para el producto.
+Ship Mode: Modo de envío del pedido.
+Ship Date: Fecha en la que se envió el pedido.
+Cost Price: Precio de costo del producto (lo que le cuesta a la empresa).
+Retail Price: Precio de venta al público del producto.
+Profit Margin: Margen de beneficio entre los precios de venta y costo.
+Order Quantity: Cantidad de productos pedidos.
+Sub Total: Costo subtotal del pedido antes de descuentos.
+Discount: Porcentaje de descuento aplicado al pedido.
+Total Discount: Monto en dólares del descuento aplicado.
+Order Total: Costo total del pedido después de aplicar descuentos.
+Shipping Cost: Costo asociado con el envío del pedido.
+Total: Valor final de la transacción de venta que incluye el costo de los productos, menos los descuentos y más los gastos de envío. Representa el monto final que paga el cliente.

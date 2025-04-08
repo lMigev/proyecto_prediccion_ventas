@@ -1,0 +1,15 @@
+Adjunto en encuntra la base de datos utilizada para el desarrollo del proyecto.
+
+La misma proviene del siguiente enlace de Kaggle:
+https://www.kaggle.com/datasets/rajneesh231/retail-insights-a-comprehensive-sales-dataset
+
+Algunas caracteristicas del Dataset:
+
+- Es un conjunto de datos sintético (generado artificialmente) que representa información de ventas de un supermercado.
+- Contiene 5,000 entradas con 24 columnas.
+- Abarca diversos aspectos de las transacciones de ventas, incluyendo:
+	+ Detalles de pedidos
+	+ Información de clientes
+	+ Detalles de productos
+	+ Precios y costos
+	+ Información de envío
