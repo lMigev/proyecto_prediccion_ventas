@@ -1,0 +1,2 @@
+El siguiente archivo contiene el script con el analisis descriptivo
+y el modelo de prediccion unificado en un solo archivo
